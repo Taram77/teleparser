@@ -1,0 +1,9 @@
+python-dotenv
+telethon
+aiogram
+sqlalchemy
+psycopg2-binary
+redis # Если будем использовать Redis
+httpx # Для внутренних HTTP-вызовов
+uvicorn # Для FastAPI/Starlette
+fastapi # Для Admin Bot API
